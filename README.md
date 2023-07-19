@@ -30,4 +30,6 @@ Some SQL interaction in my VSCode terminal:
 
 ## Heroku Link
 
-If Heroku even accept this half-baked piece of garbage, here it is. (By "garbage", I mean "It's not treasure *yet*" (developer mindset!))
+As of the initial release, the app is non-functional, but this link will demonstrate functionality as soon as future updates are made:
+
+https://dashboard.heroku.com/apps/module-twelve-challenge/deploy/github
