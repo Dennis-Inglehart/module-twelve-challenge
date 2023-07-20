@@ -1,0 +1,26 @@
+{
+  "name": "module-twelve-challenge",
+  "version": "1.0.0",
+  "description": "Sadly, time constraints prevented this exercise from being completed. What you see is a meager fraction of what would have been accomplished, given more time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dennis-Inglehart/module-twelve-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dennis-Inglehart/module-twelve-challenge/issues"
+  },
+  "homepage": "https://github.com/Dennis-Inglehart/module-twelve-challenge#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "inquirer": "^9.2.8",
+    "mysql2": "^3.5.2"
+  },
+  "devDependencies": {}
+}
